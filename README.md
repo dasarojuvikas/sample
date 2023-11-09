@@ -1,2 +1,2 @@
 # sample
-sample coomands
+sample coomands for me
